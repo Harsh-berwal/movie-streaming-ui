@@ -5,7 +5,7 @@ The project was created to practice layout design, Flexbox,
 and responsive UI development.
 
 ## 🛠 Tech Stack
-- HTML5
+- HTML
 - CSS
 
 ## 📚 What I Learned
