@@ -27,7 +27,7 @@ This project is created only for educational purposes.
 All design credits belong to Netflix.
 
 ## 🌐 Live Demo
- https://harsh-berwal.github.io/movie-streaming-ui/
+ https://movie-streaming-ui-kappa.vercel.app/
 
 ## 📸 Screenshots
 
